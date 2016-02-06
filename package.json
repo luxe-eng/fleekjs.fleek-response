@@ -1,6 +1,6 @@
 {
   "name": "fleek-response",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A response module for the fleek framework",
   "main": "lib/response.js",
   "scripts": {
@@ -18,8 +18,8 @@
   "dependencies": {
     "lodash": "^3.8.0",
     "co": "^4.6.0",
-    "fleek-router": "git@github.com:luxe-eng/fleekjs.fleek-router.git#v2.0.2",
-    "fleek-parser": "git@github.com:luxe-eng/fleekjs.fleek-parser.git#v2.0.2",
+    "fleek-router": "git://github.com/luxe-eng/fleekjs.fleek-router.git#v2.0.3",
+    "fleek-parser": "git://github.com/luxe-eng/fleekjs.fleek-parser.git#v2.0.3",
     "chai" : "3.3.0",
     "is_js" : "0.7.4",
     "koa" : "1.0.0",
