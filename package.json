@@ -16,15 +16,15 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.8.0",
+    "lodash": "^4.16.4",
     "co": "^4.6.0",
     "fleek-router": "git://github.com/luxe-eng/fleekjs.fleek-router.git#v2.0.3",
     "fleek-parser": "git://github.com/luxe-eng/fleekjs.fleek-parser.git#v2.0.3",
-    "chai" : "3.3.0",
-    "is_js" : "0.7.4",
-    "koa" : "1.0.0",
-    "koa-router" : "4.3.2",
-    "mocha" : "2.3.3",
-    "supertest" : "1.1.0"
+    "chai" : "3.5.0",
+    "is_js" : "0.9.0",
+    "koa" : "1.2.4",
+    "koa-router" : "5.4.0",
+    "mocha" : "3.1.2",
+    "supertest" : "2.0.1"
   }
 }
